@@ -1,0 +1,2 @@
+# Database
+Baza fayllar mavjud
